@@ -10,5 +10,11 @@
         "title": "UML Class",
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
+    },
+        {
+        "id": 3,
+        "title": "Мой план",
+        "description": "План работы в семестре",
+        "preview": "https://tcblog.ru/wp-content/uploads/2018/03/6294B334-7A0A-46DB-8DA5-4D0DD8127CD4.jpeg"
     }
 ]
