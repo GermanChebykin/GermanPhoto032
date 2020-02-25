@@ -1,0 +1,41 @@
+{
+    "title": "Мой план",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "План работы в семестре",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://www.fresher.ru/manager_content/images/bolshoj-palec-vverx-vmesto-oruzhiya/2.jpg"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Этапы",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{
+                    "text": "Посетить семинары"
+                }],
+                [{
+                    "text": "Выполнить задания семинаров"
+                }],
+                [{
+                    "text": "Выполнить лабораторные работы"
+                }]
+            ]
+        }
+    ]
+}
