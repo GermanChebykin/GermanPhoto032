@@ -63,7 +63,7 @@
         },
          {
             "type": "image",
-            "data": "https://github.com/GermanChebykin/GermanPhoto032/blob/master/img/ActorsAndGoals.png"
+            "data": "https://github.com/GermanChebykin/GermanPhoto032/blob/master/img/ActorsAndGoals.png?raw=true"
         },
         {
             "type": "text",
@@ -116,7 +116,7 @@
         },
         {
           "type": "image",
-          "data": "https://github.com/GermanChebykin/GermanPhoto032/blob/master/img/MainFlow.png"
+          "data": "https://github.com/GermanChebykin/GermanPhoto032/blob/master/img/MainFlow.png?raw=true"
         },
 	{
             "type": "text",
