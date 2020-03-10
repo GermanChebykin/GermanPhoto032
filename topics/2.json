@@ -63,7 +63,7 @@
         },
          {
             "type": "image",
-            "data": "img/ActorsAndGoals.PNG"
+            "data": "https://github.com/GermanChebykin/GermanPhoto032/blob/master/img/ActorsAndGoals.png"
         },
         {
             "type": "text",
@@ -116,7 +116,7 @@
         },
         {
           "type": "image",
-          "data": "img/MainFlow.PNG"
+          "data": "https://github.com/GermanChebykin/GermanPhoto032/blob/master/img/MainFlow.png"
         },
 	{
             "type": "text",
@@ -155,13 +155,13 @@
             "data": [
                 {
                     "text": "Файл диаграммы",
-                    "link": "https://github.com/egorkazyukanov/egorkazyukanov-page/blob/master/files/UMLclass.txt"
+                    "link": "https://sun9-66.userapi.com/c855732/v855732438/b6473/tsT6ZK1Imqc.jpg"
                 }
             ]
         },
         {
             "type": "image",
-            "data": "img/UMLclass.png"
+            "data": "https://sun9-66.userapi.com/c855732/v855732438/b6473/tsT6ZK1Imqc.jpg"
         }
 	    ]
 }
